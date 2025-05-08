@@ -1,0 +1,4 @@
+.vscode/
+
+# Ignore JavaScript files inside TypeScript folder
+**/**/**/**/typescript/**/*.js
